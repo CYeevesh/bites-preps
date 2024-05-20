@@ -1,0 +1,36 @@
+body {
+  background-color: #164A41 !important;
+}
+
+.txt-bwn {
+  color: #f1b24a;
+}
+
+.section-title {
+  margin-bottom: 30px;
+  font-size: 1.75rem;
+  color: #343a40;
+}
+
+.card {
+  border-radius: 15px;
+  border-color: #28272632;
+
+  background-color: #f1b14a;
+}
+
+#contactForm {
+  border-radius: 15px;
+  border-color: #28272632;
+  background-color: #f1b14a7c;
+}
+
+form label {
+  color: white;
+}
+
+#belief,
+#about,
+#contact-card {
+  color: #f1b24a;
+}

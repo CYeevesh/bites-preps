@@ -1,0 +1,13 @@
+.nav-offset{
+    margin-top: 100px !important;
+}
+
+.bdr-1{
+    border: 1px solid violet !important;
+}
+.bdr-3{
+    border: 3px solid rgb(144, 0, 255) !important;
+}
+.bdr-5{
+    border: 5px solid rgb(255, 191, 0) !important;
+}
