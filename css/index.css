@@ -119,6 +119,14 @@
     display: none;
 }
 
+@media screen and (max-width: 575px) {
+    #scrollToTopBtn {
+        position: fixed;
+        top: 85%;
+        left: 80%;
+    }
+}
+
 @media screen and (min-width: 768px) {
     #arrow-right {
         display: block;
@@ -129,5 +137,11 @@
     #arrow-down {
         display: block;
         padding: 10px;
+    }
+
+    #scrollToTopBtn {
+        position: fixed;
+        top: 85%;
+        left: 85%;
     }
 }
