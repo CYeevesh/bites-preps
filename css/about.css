@@ -34,3 +34,9 @@ form label {
 #contact-card {
   color: #f1b24a;
 }
+
+.cover-img {
+  width: 150px;
+  max-height: 200px;
+  object-fit: cover;
+}
